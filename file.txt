@@ -1,4 +1,4 @@
 // touch file.txt to create a new file
 line1.
 line2.
-line/////3.
+line3.
